@@ -42,8 +42,18 @@ const MarkdownStyles = theme => ({
     lineHeight: "2.0em",
   },
   unorderedListItem: {
+    fontFamily: "'Roboto', sans-serif",
+    fontSize: "0.95rem",
+    '@media (min-width:480px)': {
+      fontSize: '1.05rem',
+    },
   },
   orderedListItem: {
+    fontFamily: "'Roboto', sans-serif",
+    fontSize: "0.95rem",
+    '@media (min-width:480px)': {
+      fontSize: '1.05rem',
+    },
   },
   codeBlock: {
     background: "#EFF0F1", // matching github

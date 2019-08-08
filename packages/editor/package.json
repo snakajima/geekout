@@ -1,6 +1,6 @@
 {
   "name": "draft-material.ui-editor",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Draft.js editor for React+Material UI projects",
   "main": "lib/index.js",
   "scripts": {
